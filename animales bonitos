@@ -1,0 +1,17 @@
+<html>
+	<body>
+		<h1>Animales bonitos</h1>
+		<p>Estos son algunos de los animales bonitos de bebes</p>
+		<p>Enlace <a href="http://delta35:8000/cuantadeladrian.html" > a la pagina del mejor </a> </p>
+		<p>Enlace <a href="http://delta25:8000/hola.html" > si quieres ver animales marinos de la mejor </a> </p>
+		
+		<img src="http://imagenesanimalestiernos.com/wp-content/uploads/2016/08/imagenes-de-perritos-tiernos-bebes.jpg" alt="">
+		
+		<img src="https://i.pinimg.com/736x/b0/85/ed/b085edf93c9692bd501f0460f5953b1b--big-cats-pictures-of.jpg" alt="">
+		
+		<img src="https://www.okchicas.com/wp-content/uploads/2015/09/beb%C3%A9s-animales-m%C3%A1s-tiernos-6.jpg" alt="">
+		<p>Y este es el mas bonito de todos</p> 
+		<img src="https://www.elefanteswiki.com/Imagenes/cuidados-y-convivencia-del-bebe-elefante.jpg" alt="">
+		
+	</body>
+</html>
